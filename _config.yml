@@ -2,6 +2,7 @@
 
 title:            "Blognya Flo &amp; Hafizh"
 locale:           id
+#url: http://localhost:4000
 url: http://florindra.github.io
 
 
@@ -30,10 +31,10 @@ owner:
     name: "Flo &amp; Hafizh"
     avatar: icon.jpg
     bio: "Let's get going!"
-    email:
+    email: [floristi92@gmail.com, fizzter149@gmail.com]
     disqus-shortname: florindra
-    twitter: #username
-    facebook: #username
+    twitter: [floristi, hfizh]
+    facebook: [floristi.d.ratna, hafizh.hasrindra]
     google:
         plus: #username
         analytics:
@@ -41,11 +42,11 @@ owner:
         ad-client:
         ad-slot:
     bing-verify:
-    github: #username
-    stackoverflow: #http://stackoverflow.com/users/123456/username
-    linkedin: #username
+    github: [floristi, fizzter149]
+    stackoverflow: [fizzter149]
+    linkedin: [hafizh.hasrindra]
     xing: #username
-    instagram: #username
+    instagram: [floristi92, fizzter149]
     lastfm: #username
     tumblr: #username
     pinterest: #username
