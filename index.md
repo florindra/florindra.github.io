@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Blog traveling dan kuliner oleh Floristi Dwi Ratna dan Hafizh Hasrindra"
+tags: [travel, kuliner, blog, floristi, hafizh, gunung, pendakian, jalan-jalan, makan]
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
