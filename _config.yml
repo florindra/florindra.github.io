@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            "Blognya Flo &amp; Hafizh"
+title:            "Blognya Flo dan Hafizh"
 locale:           id
 #url: http://localhost:4000
 url: http://florindra.com
@@ -28,7 +28,7 @@ kramdown:
 
 # Site owner
 owner:
-    name: "Flo &amp; Hafizh"
+    name: "Flo dan Hafizh"
     avatar: icon.jpg
     bio: "Let's get going!"
     email: [floristi92@gmail.com, fizzter149@gmail.com]
@@ -42,9 +42,9 @@ owner:
         ad-client:
         ad-slot:
     bing-verify:
-    github: [floristi, fizzter149]
-    stackoverflow: [fizzter149]
-    linkedin: [hafizh.hasrindra]
+    github: #[floristi, fizzter149]
+    stackoverflow: #[fizzter149]
+    linkedin: #[hafizh.hasrindra]
     xing: #username
     instagram: [floristi92, fizzter149]
     lastfm: #username

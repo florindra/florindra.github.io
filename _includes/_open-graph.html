@@ -1,8 +1,16 @@
 <!-- Twitter Cards -->
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">{% endif %}
-{% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %}
-{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
+{% if site.owner.twitter %}
+	{% for twitter in site.owner.twitter %}
+      <meta name="twitter:site" content="@{{ twitter }}">
+    {% endfor %}
+{% endif %}
+{% if author.twitter %}
+	{% for twitter in author.twitter %}
+      <meta name="twitter:creator" content="@{{ twitter }}">
+    {% endfor %}
+{% endif %}
 {% if page.image.feature %}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">
