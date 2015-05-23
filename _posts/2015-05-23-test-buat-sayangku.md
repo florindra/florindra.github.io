@@ -1,5 +1,8 @@
 ---
-published:true
+layout: post
+title: Testing buat sayang
+published: True
+comments: true
 ---
 
 ## Testing 123
