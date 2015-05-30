@@ -4,7 +4,7 @@ title: "Being Lost With You: Puncak Arca-Cipanas"
 tags: [puncak, puncak 2, arca, sentul, kota bunga, cipanas, sate shinta]
 comments: true
 image:
-  feature: 2015-05-30-puncak-arca\featured.jpg
+  feature: 2015-05-30-puncak-arca/featured.jpg
 published: true
 ---
 
