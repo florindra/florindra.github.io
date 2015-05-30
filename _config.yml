@@ -37,8 +37,8 @@ owner:
     facebook: [floristi.d.ratna, hafizh.hasrindra]
     google:
         plus: #username
-        analytics:
-        verify:
+        analytics: UA-63581806-1
+        verify: n_NAfhHrBdJ17zNf-aWBvzlxOedngHncAP7Ca0d8pZs
         ad-client:
         ad-slot:
     bing-verify:
