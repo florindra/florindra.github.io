@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pendakian Gunung Gede via Gunung Putri (2/2)
+description: cerita perjalanan pendakian gunung gede via jalur gunung putri part 2
 tags: [gunung, pendakian, gede, putri]
 comments: true
 image:
