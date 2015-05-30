@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being Lost With You: Puncak Arca-Cipanas"
-description: "Cerita perjalanan saya bersama nyonya naik motor menuju puncak lewat jalur sentul, sukamakmur, puncak arca, kota bunga, dan cipanas."
+description: "Cerita perjalanan naik motor menuju puncak lewat jalur sentul, sukamakmur, puncak arca, kota bunga, dan cipanas."
 tags: [puncak, puncak 2, arca, sentul, kota bunga, cipanas, sate shinta]
 comments: true
 image:
