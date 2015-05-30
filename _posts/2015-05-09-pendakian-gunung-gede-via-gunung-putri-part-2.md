@@ -4,7 +4,7 @@ title: Pendakian Gunung Gede via Gunung Putri (2/2)
 tags: [gunung, pendakian, gede, putri]
 comments: true
 image:
-  feature: 2015-05-09-pendakian-gunung-gede-via-gunung-putri-part-2\featured.jpg
+  feature: 2015-05-09-pendakian-gunung-gede-via-gunung-putri-part-2/featured.jpg
 published: true
 ---
 
