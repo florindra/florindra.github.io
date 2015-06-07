@@ -6,6 +6,7 @@ image:
   feature: 2015-06-07-situ-gunung/featured.jpg
 published: true
 comments: true
+description: "Catatan perjalanan menuju Situ Gunung, Sukabumi."
 quote: "Nothing is more memorable than a smell. One scent can be unexpected, momentary and fleeting, yet conjure up a childhood summer beside a lake in the mountains. (Diane Ackerman)"
 ---
 
