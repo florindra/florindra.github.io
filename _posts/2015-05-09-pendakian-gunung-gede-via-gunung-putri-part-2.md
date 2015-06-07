@@ -7,9 +7,8 @@ comments: true
 image:
   feature: 2015-05-09-pendakian-gunung-gede-via-gunung-putri-part-2/featured.jpg
 published: true
+quote: "In the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain. (Jack Kerouac)"
 ---
-
-> "In the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain." - Jack Kerouac
 
 Melanjutkan cerita di [part 1]({{site.url}}/pendakian-gunung-gede-via-gunung-putri-part-1/), sekarang kita mulai perjalanan sebenarnya.
 

@@ -7,9 +7,8 @@ comments: true
 image:
   feature: 2015-05-30-puncak-arca/featured.jpg
 published: true
+quote: "Not all those who Wander are Lost (J.R.R. Tolkien)"
 ---
-
-> "Not all those who Wander are Lost" -J.R.R. Tolkien
 
 Setelah kemarin kami sempat sharing pengalaman perjalanan kami ke Gede, yang walaupun bisa dikatakan agak "payah" jalannya :relieved: Kali ini kami ingin sharing pengalaman kami jalan jalan ke puncak. Mungkin jalan jalan ke Puncak bagi kebanyakan orang udah jadi hal yang biasa aja, tapi pernahkan Anda ke puncak lewat jalur Sentul - Sukamakmur - Cipanas? Walaupun bukan jalur baru, namun sepertinya jalur ini belum terlalu ramai.
 
