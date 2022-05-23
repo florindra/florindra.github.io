@@ -8,9 +8,10 @@ url: http://florindra.id
 
 # Jekyll configuration
 
+theme: minimal-mistakes-jekyll
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
     sass_dir: _sass
     style: compressed
